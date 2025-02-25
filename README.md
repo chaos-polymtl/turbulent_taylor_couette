@@ -11,3 +11,5 @@ It contains:
  * torque
 2. Post-processing scripts to calculate the kinetic energy rate and generate each of the figures that can be found in the plots folder.
 3. Reference data from Wang & Jourdan (2021). 
+
+**Note:** all the results in this repository were obtained using Lethe v1.0 (branch: master; short: 8186f39) and deal.II v9.7.0-pre (branch: master; short: e7135bd5d1).
